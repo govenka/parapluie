@@ -60,6 +60,8 @@ http://localhost:22222/parapluie?latitude=48.8567&longitude=2.3508
 
 Remplacez les valeurs de `latitude` et `longitude` par vos coordonnées géographiques souhaitées.
 
+Vous pouvez modifier le port par défaut en modifiant la ligne 'const PORT = "22222"' dans le fichier main.go
+
 ## Tests
 
 Des tests unitaires sont fournis pour vérifier le bon fonctionnement des fonctions principales. Pour exécuter les tests, utilisez la commande suivante :
