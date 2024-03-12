@@ -71,7 +71,6 @@ go test ./...
 Vous devez obtenir cela : 
 
 ```
-go test ./...                                                                                                                       ✔  with govenka@ia  at 
 ok  	exercice_meteo	0.171s
 ok  	exercice_meteo/meteo	0.244s
 ```
